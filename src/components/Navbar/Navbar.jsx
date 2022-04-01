@@ -4,7 +4,7 @@ import CustomLink from "../CustomLink/CustomLink";
 
 const Navbar = () => {
   return (
-    <div>
+    <div className="bg-green-200">
       <div></div>
       <nav>
         <CustomLink to="/">Home</CustomLink>
